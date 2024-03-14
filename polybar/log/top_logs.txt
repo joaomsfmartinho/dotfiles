@@ -1,3 +1,0 @@
-polybar|error: Disabling module "gmail" (reason: Missing section "module/gmail")
-polybar|error: Disabling module "color-switch" (reason: Missing section "module/color-switch")
-polybar|error: Disabling module "updates" (reason: Missing section "module/updates")
