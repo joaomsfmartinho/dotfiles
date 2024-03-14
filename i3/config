@@ -202,7 +202,7 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 
 # Start polybar
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh &
+exec_always --no-startup-id $HOME/.config/polybar/scripts/launch.sh &
 
 # Start fusuma
 exec --no-startup-id fusuma &
