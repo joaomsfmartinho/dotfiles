@@ -7,8 +7,6 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 dir=~/.config/rofi/styles
 
-echo "dir: $dir"
-
 FIELDS=SSID,SECURITY
 POSITION=0
 YOFF=0
